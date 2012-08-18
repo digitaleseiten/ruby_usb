@@ -1,0 +1,22 @@
+2009-07-28  Daiki Ueno  <ueno@unixuser.org>
+
+	* extconf.rb: check ruby/st.h for ruby 1.9.
+
+	* usb.c: prefer ruby/st.h over st.h.
+
+2008-04-12  Tanaka Akira  <akr@fsij.org>
+
+	* ruby-usb 0.2 released.
+
+2007-01-21  Tanaka Akira  <akr@fsij.org>
+
+	* usb.c: include st.h.
+	  fix a compile error on MacOS X reported by Tony Buser.
+
+2007-01-10  Tanaka Akira  <akr@fsij.org>
+
+	* lib/usb.rb (USB.each_device_by_class): new method.
+
+2007-01-10  Tanaka Akira  <akr@fsij.org>
+
+	* ruby-usb 0.1 released.
