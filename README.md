@@ -24,3 +24,7 @@ Sample Code for the Jenkins Light
 You can see if the light works by running
 
 <pre>prompt$: ruby sample/jenkins.rb</pre>
+
+Looking for a Job in Berlin?
+============================
+Drop us a line!!
